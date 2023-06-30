@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: JUly 1, 2023 (Example 1)
+### Day 0: July 1, 2023 (Example 1)
 //##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Java Coding Challenges - Hackerrank, Data Structures
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Can't remeber many stuff, was fun!
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to last work:** https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
