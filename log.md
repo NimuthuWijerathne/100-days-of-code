@@ -1,11 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 1, 2023 (Example 1)
-//##### (delete me or comment me out)
+### Day 0: July 1, 2023
 
 **Today's Progress**: Java Coding Challenges - Hackerrank, Data Structures
 
-**Thoughts:** Can't remeber many stuff, was fun!
+**Thoughts:** Can't remember many stuff, was fun!
 
 **Link to last work:** https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
 
